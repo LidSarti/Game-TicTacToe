@@ -1,3 +1,3 @@
-# TicTacToeInPython
+<h1>🚀 Tic Tac Toe</h1>
 
-Criação de um jogo da velha simples utilizando Python.
+<p>Criação de um jogo da velha simples, que funciona pelo terminal utilizando Python. O objetivo foi desenvolver meus conheimentos de Python, assim como POO.</p>
